@@ -1,0 +1,173 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:ignore="HardcodedText" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="600dp" >
+       
+          <TextView
+            android:id="@+id/labelnim"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="7dp"
+            android:text="Republic of Telesandi ©2014"
+            android:layout_centerHorizontal="true"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/labelnama"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/labelnim"
+            android:layout_marginTop="7dp"
+            android:text="Nama"
+            android:textSize="18sp" />
+
+        <EditText
+            android:id="@+id/fieldnama"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/labelnim"
+            android:layout_toRightOf="@+id/labelnama"
+            android:inputType="text"
+            tools:ignore="RtlHardcoded" >
+
+        </EditText>
+
+        <TextView
+            android:id="@+id/labelemail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/labelnama"
+            android:layout_marginTop="15dp"
+            android:text="E-mail"
+            android:textSize="18sp" />
+
+        <EditText
+            android:id="@+id/fieldemail"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/fieldnama"
+            android:layout_toRightOf="@+id/labelemail"
+            android:inputType="textEmailAddress"
+            tools:ignore="RtlHardcoded" >
+
+        </EditText>
+
+        <TextView
+            android:id="@+id/labeljk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/labelemail"
+            android:layout_marginTop="15dp"
+            android:text="Jenis Kelamin"
+            android:textSize="18sp" />
+
+        <RadioGroup
+            android:id="@+id/groupjk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/labeljk"
+            android:orientation="horizontal"
+            android:padding="5dp" >
+
+            <RadioButton
+                android:id="@+id/radiolk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Laki-Laki"
+                android:textSize="18sp" />
+
+            <RadioButton
+                android:id="@+id/radiopr"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Perempuan"
+                android:textSize="18sp" />
+      
+        </RadioGroup>
+
+        <CheckBox
+            android:id="@+id/cekboxjava"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/labelkeahlian"
+            android:layout_marginTop="5dp"
+            android:text="Rekayasa Perangkat Lunak"
+            android:textSize="18sp" />
+
+        <CheckBox
+            android:id="@+id/cekboxnet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cekboxjava"
+            android:layout_marginTop="5dp"
+            android:text="Teknik Komputer dan Jaringan"
+            android:textSize="18sp" />
+
+        <CheckBox
+            android:id="@+id/cekboxsa"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cekboxnet"
+            android:layout_marginTop="5dp"
+            android:text="Multimedia"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/tomboltampil"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/cekboxsa"
+            android:layout_marginTop="5dp"
+            android:text="TAMPILKAN"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/outputnama"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tomboltampil"
+            android:layout_marginTop="5dp"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/outputemail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/outputnama"
+            android:layout_marginTop="5dp"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/outputahli"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/outputemail"
+            android:layout_marginTop="5dp"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/outputjk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/outputahli"
+            android:layout_marginTop="5dp"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/labelkeahlian"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_below="@+id/groupjk"
+            android:text="Keahlian di SMK Telesandi Bekasi"
+            android:textSize="18sp"
+            tools:ignore="RtlHardcoded" />
+
+    </RelativeLayout>
+
+</ScrollView>

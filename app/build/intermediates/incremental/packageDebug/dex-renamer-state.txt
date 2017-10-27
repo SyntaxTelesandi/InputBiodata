@@ -1,0 +1,7 @@
+#Sun Jul 02 21:57:33 WIB 2017
+base.0=/Users/Poncoe/Documents/AStudioProject/InputBiodata/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6c01d2a91f5220436df3e5e4287ca7aa41eb503c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/Poncoe/Documents/AStudioProject/InputBiodata/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f305963d0474db42d98912330819e6645948a731/classes.dex
+base.1=/Users/Poncoe/Documents/AStudioProject/InputBiodata/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f305963d0474db42d98912330819e6645948a731
+file.0=/Users/Poncoe/Documents/AStudioProject/InputBiodata/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6c01d2a91f5220436df3e5e4287ca7aa41eb503c/classes.dex

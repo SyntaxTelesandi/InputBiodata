@@ -1,0 +1,324 @@
+[
+    {
+        "outputFile": "/Users/Poncoe/Documents/Poncoe Tester/Desktop Backup/Tutorial Android Poncoe/Tutorial by Republic of Telesandi App/InputBiodata/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/Poncoe/Documents/Poncoe Tester/Desktop Backup/Tutorial Android Poncoe/Tutorial by Republic of Telesandi App/InputBiodata/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/Poncoe/Documents/Poncoe Tester/Desktop Backup/Tutorial Android Poncoe/Tutorial by Republic of Telesandi App/InputBiodata/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 50,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "/Users/Poncoe/Documents/Poncoe Tester/Desktop Backup/Tutorial Android Poncoe/Tutorial by Republic of Telesandi App/InputBiodata/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 50,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endColumn": 64,
+                    "endOffset": 280
+                },
+                "from": {
+                    "file": "/Users/Poncoe/Documents/Poncoe Tester/Desktop Backup/Tutorial Android Poncoe/Tutorial by Republic of Telesandi App/InputBiodata/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 64,
+                        "endOffset": 118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 285,
+                    "endColumn": 52,
+                    "endOffset": 333
+                },
+                "from": {
+                    "file": "/Users/Poncoe/Documents/Poncoe Tester/Desktop Backup/Tutorial Android Poncoe/Tutorial by Republic of Telesandi App/InputBiodata/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 52,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 338,
+                    "endColumn": 404,
+                    "endOffset": 738
+                },
+                "from": {
+                    "file": "/Users/Poncoe/Documents/Poncoe Tester/Desktop Backup/Tutorial Android Poncoe/Tutorial by Republic of Telesandi App/InputBiodata/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 404,
+                        "endOffset": 629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 743,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 1029
+                },
+                "from": {
+                    "file": "/Users/Poncoe/Documents/Poncoe Tester/Desktop Backup/Tutorial Android Poncoe/Tutorial by Republic of Telesandi App/InputBiodata/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1034,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 1189
+                },
+                "from": {
+                    "file": "/Users/Poncoe/Documents/Poncoe Tester/Desktop Backup/Tutorial Android Poncoe/Tutorial by Republic of Telesandi App/InputBiodata/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/Poncoe/Documents/AStudioProject/InputBiodata/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/Poncoe/Documents/AStudioProject/InputBiodata/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/Poncoe/Documents/AStudioProject/InputBiodata/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 50,
+                    "endOffset": 215
+                },
+                "from": {
+                    "file": "/Users/Poncoe/Documents/AStudioProject/InputBiodata/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 50,
+                        "endOffset": 170
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 220,
+                    "endColumn": 64,
+                    "endOffset": 280
+                },
+                "from": {
+                    "file": "/Users/Poncoe/Documents/AStudioProject/InputBiodata/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 64,
+                        "endOffset": 118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 285,
+                    "endColumn": 52,
+                    "endOffset": 333
+                },
+                "from": {
+                    "file": "/Users/Poncoe/Documents/AStudioProject/InputBiodata/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 176,
+                        "endColumn": 52,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 338,
+                    "endColumn": 404,
+                    "endOffset": 738
+                },
+                "from": {
+                    "file": "/Users/Poncoe/Documents/AStudioProject/InputBiodata/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 404,
+                        "endOffset": 629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 743,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 1029
+                },
+                "from": {
+                    "file": "/Users/Poncoe/Documents/AStudioProject/InputBiodata/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1034,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 1189
+                },
+                "from": {
+                    "file": "/Users/Poncoe/Documents/AStudioProject/InputBiodata/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]
